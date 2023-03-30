@@ -6,7 +6,9 @@ const splashList = [
 "First, the park, where we’ll see nice doggies.",
 "Then embark, and we’ll paint cute froggies.",
 "Does Bowser, Shinji, or Mr. Wolf own this site?",
-"Loss memes are not allowed."
+"Loss memes are not allowed.",
+"Whats with these homies dissing my girl?",
+"Legalise poop"
 ] //write all your splashes here
 
 function loadSplash() {
