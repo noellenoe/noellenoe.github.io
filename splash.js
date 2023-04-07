@@ -17,7 +17,7 @@ const splashList = [
 "Whats with these homies dissing my girl?",
 "You are amazing", 
 "Legalise poop",
-"noelle "the monster makes my teeth clean" noelle",
+"noelle \"the monster makes my teeth clean\" noelle",
 "This cavity hurts so bad"
 ] //write all your splashes here
 
