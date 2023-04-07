@@ -3,7 +3,7 @@ const splashList = [
 "Listen to BIPOC voices",
 "Feel the vibes of this gal!",
 "What the tuna!",
-"Support your local LGBTQIA+ youth",
+"Support your local LGBTQIA+",
 "What the scallop!",
 "Support your local abortion clinics",
 "First, the park, where we’ll see nice doggies.",
@@ -16,7 +16,9 @@ const splashList = [
 "You are beautiful",
 "Whats with these homies dissing my girl?",
 "You are amazing", 
-"Legalise poop"
+"Legalise poop",
+"noelle "the monster makes my teeth clean" noelle",
+"This cavity hurts so bad"
 ] //write all your splashes here
 
 function loadSplash() {
