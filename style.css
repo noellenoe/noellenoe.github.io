@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "emoji-ttf";
+  font-family: "emoji";
   src: url('font/TossFaceFontMac.ttf') format('truetype'), url('font/TossFaceFontMac.otf') format('opentype')
 }
 img {
@@ -21,7 +21,7 @@ img.main {
 }
 :root {
     font-size:15px;
-    font-family: 'Poppins', 'emoji-ttf', 'emoji-otf', sans-serif;
+    font-family: 'Poppins', 'emoji', sans-serif;
     --backcolour:#1c0000;
     --mainbackcolour:#510000;
     --buttoncolour:#561919;
@@ -99,20 +99,20 @@ mark {
   background: var(--mainbackcolour);
 }
 h1 {
- font-family: 'Poppins', 'emoji-ttf', 'emoji-otf', sans-serif;
+ font-family: 'Poppins', 'emoji', sans-serif;
  font-size: 1.75rem;
  vertical-align: middle;
 }
 h2 {
-  font-family: 'Poppins', 'emoji-ttf', 'emoji-otf', sans-serif;
+  font-family: 'Poppins', 'emoji', sans-serif;
   font-size: 1.50rem; 
 }
 h3 {
-  font-family: 'Poppins', 'emoji-ttf', 'emoji-otf', sans-serif;
+  font-family: 'Poppins', 'emoji', sans-serif;
   font-size: 1.10rem; 
 }
 p {
- font-family: 'Poppins', 'emoji-ttf', 'emoji-otf', sans-serif;
+ font-family: 'Poppins', 'emoji', sans-serif;
  font-size: .90rem;
  vertical-align: middle;
 }
@@ -120,7 +120,7 @@ body {
   background-color: var(--backcolour);
   color: var(--textcolour);
   margin:0 20% 0 20%;
-  font-family: 'Poppins', 'emoji-ttf', 'emoji-otf', sans-serif;
+  font-family: 'Poppins', 'emoji', sans-serif;
   font-size: var(--ptextsize);
   vertical-align: middle;
 }
