@@ -1,6 +1,10 @@
 @font-face {
-  font-family: "emoji";
-  src: url('font/TossFaceFontMac.ttf');
+  font-family: "emoji-ttf";
+  src: url('font/TossFaceFontMac.ttf') format('truetype');
+}
+@font-face {
+  font-family: "emoji-otf";
+  src: url('font/TossFaceFontMac.otf') format('opentype');
 }
 img {
   height: 200px;
