@@ -2,6 +2,15 @@
   font-family: "emoji";
   src: url('font/TossFaceFontMac.ttf') format('truetype'), url('font/TossFaceFontMac.otf') format('opentype')
 }
+.column {
+  float: left;
+  width: 50%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 img {
   height: 200px;
   width: auto;
