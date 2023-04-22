@@ -28,6 +28,15 @@ img.main {
   margin-left: auto;
   margin-right: auto;
 }
+img.kin {
+  margin:10px 0 0 0;
+  height: 200px;
+  width: auto;
+  border-radius:2rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 :root {
     font-size:15px;
     font-family: 'Poppins', 'emoji', sans-serif;
