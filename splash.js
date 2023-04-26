@@ -19,6 +19,7 @@ const splashList = [
 "Legalise poop",
 "noelle \"the monster makes my teeth clean\" noelle",
 "This cavity hurts so bad"
+"People who enjoy having flesh are not allowed /j"
 ] //write all your splashes here
 
 function loadSplash() {
