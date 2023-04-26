@@ -1,9 +1,18 @@
+@font-face {
+  font-family: "sf-mono-bold";
+  src: url('font/SFMono-Heavy.otf');
+}
+@font-face {
+  font-family: "sf-mono";
+  src: url('font/SFMono-Regular.otf');
+}
 body {
     background-color:#350000;
-    color: rgb(255, 225, 225);
+    color: #ffe1e1;
 }
 div.main {
     background-color:#750000;
+    color: #ffe1e1;
 }
 h1,h2,h3 {
     font: "sf-mono-bold", serif;
@@ -17,3 +26,8 @@ h2 {
 h3 {
     font-size:15px;
 }
+p {
+    font: "sf-mono", serif;
+    font-size:10px;
+}
+
