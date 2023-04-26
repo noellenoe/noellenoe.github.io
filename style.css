@@ -15,7 +15,7 @@ div.main {
     color: #ffe1e1;
 }
 h1,h2,h3 {
-    font: "sf-mono-bold", serif;
+    font: "sf-mono-bold", sans;
 }
 h1 {
     font-size:20px;
@@ -27,7 +27,7 @@ h3 {
     font-size:15px;
 }
 p {
-    font: "sf-mono", serif;
+    font: "sf-mono", sans;
     font-size:10px;
 }
 
