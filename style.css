@@ -1,17 +1,17 @@
 @font-face {
     font-family: "sf-mono-bold";
-    src: url('font/SFMono-Heavy.otf');
+    src: url('font/SFMono-Heavy.woff2');
   }
 @font-face {
     font-family: "sf-mono";
-    src: url('font/SFMono-Regular.otf');
+    src: url('font/SFMono-Regular.woff2');
   }
 img {
     max-height:200px;
     max-width:200px;
     height:auto;
     width:auto;
-    border-radius:5%;
+    border-radius:5px;
   }
 body {
       background-color:#350000;
@@ -21,8 +21,8 @@ div.main {
       background-color:#750000;
       color: #ffe1e1;
       text-align: center;
-      border-radius:5%;
-      padding:1%;
+      border-radius:5px;
+      padding:5px;
   }
 h1,h2,h3 {
       font-family: "sf-mono-bold";
