@@ -1,33 +1,33 @@
 @font-face {
-  font-family: "sf-mono-bold";
-  src: url('font/SFMono-Heavy.otf');
-}
-@font-face {
-  font-family: "sf-mono";
-  src: url('font/SFMono-Regular.otf');
-}
-body {
-    background-color:#350000;
-    color: #ffe1e1;
-}
-div.main {
-    background-color:#750000;
-    color: #ffe1e1;
-}
-h1,h2,h3 {
-    font: "sf-mono-bold", sans;
-}
-h1 {
-    font-size:20px;
-}
-h2 {
-    font-size:17px;
-}
-h3 {
-    font-size:15px;
-}
-p {
-    font: "sf-mono", sans;
-    font-size:10px;
-}
-
+    font-family: "sf-mono-bold";
+    src: url('font/SFMono-Heavy.otf');
+  }
+  @font-face {
+    font-family: "sf-mono";
+    src: url('font/SFMono-Regular.otf');
+  }
+  body {
+      background-color:#350000;
+      color: #ffe1e1;
+  }
+  div.main {
+      background-color:#750000;
+      color: #ffe1e1;
+      text-align: center;
+  }
+  h1,h2,h3 {
+      font: "sf-mono-bold";
+  }
+  h1 {
+      font-size:20px;
+  }
+  h2 {
+      font-size:17px;
+  }
+  h3 {
+      font-size:15px;
+  }
+  p {
+      font: "sf-mono";
+      font-size:10px;
+  }
