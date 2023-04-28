@@ -16,7 +16,7 @@
       text-align: center;
   }
   h1,h2,h3 {
-      font: "sf-mono-bold";
+      font-family: "sf-mono-bold";
   }
   h1 {
       font-size:20px;
@@ -28,6 +28,6 @@
       font-size:15px;
   }
   p {
-      font: "sf-mono";
+      font-family: "sf-mono";
       font-size:10px;
   }
