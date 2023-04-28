@@ -2,32 +2,41 @@
     font-family: "sf-mono-bold";
     src: url('font/SFMono-Heavy.otf');
   }
-  @font-face {
+@font-face {
     font-family: "sf-mono";
     src: url('font/SFMono-Regular.otf');
   }
-  body {
+img {
+    max-height:200px;
+    max-width:200px;
+    height:auto;
+    width:auto;
+    border-radius:5%;
+  }
+body {
       background-color:#350000;
       color: #ffe1e1;
   }
-  div.main {
+div.main {
       background-color:#750000;
       color: #ffe1e1;
       text-align: center;
+      border-radius:5%;
+      padding:1%;
   }
-  h1,h2,h3 {
+h1,h2,h3 {
       font-family: "sf-mono-bold";
   }
-  h1 {
+h1 {
       font-size:20px;
   }
-  h2 {
+h2 {
       font-size:17px;
   }
-  h3 {
+h3 {
       font-size:15px;
   }
-  p {
+p {
       font-family: "sf-mono";
       font-size:10px;
   }
