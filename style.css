@@ -14,8 +14,8 @@ img {
     border-radius:5px;
   }
 body {
-      background-color:#350000;
-      color: #ffe1e1;
+    background-color:#350000;
+    color: #ffe1e1;
   }
 div.main {
       background-color:#750000;
@@ -40,3 +40,25 @@ p {
       font-family: "sf-mono";
       font-size:10px;
   }
+a {
+    font-family: "sf-mono";
+    font-size: 10px;
+    color: #fff;
+}
+a:hover {
+
+}
+a:visited {
+
+}
+a.button {
+    font-family: "sf-mono";
+    font-size:10px;
+    text-align:center;
+    background-color: ;
+    
+    display: inline-block;
+}
+a.button:hover {
+    
+}
