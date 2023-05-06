@@ -22,7 +22,7 @@ div.main {
       color: #ffe1e1;
       text-align: center;
       border-radius:5px;
-      padding:5px;
+      padding:5px 128px auto 128px;
   }
 h1,h2,h3 {
       font-family: "sf-mono-bold";
