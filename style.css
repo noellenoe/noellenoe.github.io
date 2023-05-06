@@ -55,9 +55,10 @@ a.button {
     font-family: "sf-mono";
     font-size:10px;
     text-align:center;
-    background-color: ;
-    
+    background-color:#ad0c0c;
+    text-decoration: none;
     display: inline-block;
+    border-radius:5px;
 }
 a.button:hover {
     
