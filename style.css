@@ -59,8 +59,9 @@ a.button {
     text-decoration: none;
     display: inline-block;
     border-radius:5px;
-    padding: 15px 25px;
+    padding: 10px 15px;
+    margin:10px;
 }
 a.button:hover {
-    
+    background-color:#d90b0b;
 }
