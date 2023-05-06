@@ -16,9 +16,9 @@ img {
 body {
     background-color:#350000;
     color: #ffe1e1;
-    padding:5px 128px auto 128px;
   }
 div.main {
+      width:65%;
       background-color:#750000;
       color: #ffe1e1;
       text-align: center;
