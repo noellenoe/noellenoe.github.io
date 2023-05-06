@@ -16,9 +16,11 @@ img {
 body {
     background-color:#350000;
     color: #ffe1e1;
+    margin-left:25%;
+    margin-right:25;
   }
 div.main {
-      width:65%;
+      width:50%;
       background-color:#750000;
       color: #ffe1e1;
       text-align: center;
